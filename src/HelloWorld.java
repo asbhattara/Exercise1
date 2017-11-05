@@ -6,7 +6,7 @@ public class HelloWorld {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 
-		System.out.println("Hello ASE2017 - How are you? :)");
+		System.out.println("Hello ASE2017 - How are you now? :)");
 		
 		System.out.print("Please enter your name: ");
 		
